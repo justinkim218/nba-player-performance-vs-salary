@@ -2,8 +2,6 @@
 
 ## Description
 
----
-
 This program provides a data visualization of NBA player performances versus their current salary.
 
 During the NBA off-season and before the NBA trade deadline, a constant topic of discussion is determining a player's value and warranted salary. 
@@ -26,8 +24,6 @@ This data visualization seeks to assist franchises to:
 
 ## Installation
 
----
-
 To start, execute the _main.py_ file. 
 
 This file will check to see if _nba-stats-salaries.csv_ and _nba_salary_vs_PIE_scatter.html_ exists. If not it will create the two files.
@@ -35,16 +31,12 @@ This file will check to see if _nba-stats-salaries.csv_ and _nba_salary_vs_PIE_s
 
 ## Usage
 
----
-
 Once main.py is executed and has created the necessary files. Open _nba_salary_vs_PIE_scatter.html_ to see the data visualization of NBA player performances vs player salaries.
 
 ![Scatter Plot Screenshot](nba_salary_vs_PIE_scatter.png?raw=true)
 
 
 ## License
-
----
 
 This project is licensed under the MIT License - see the LICENSE.txt file for details
 
